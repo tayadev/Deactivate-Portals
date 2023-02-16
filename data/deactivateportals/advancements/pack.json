@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Deactivate Portals",
+        "description": "Allows you to toggle if nether and end portals can be activated",
+        "icon": {
+            "item": "ender_eye"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:tayacrystals",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

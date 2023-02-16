@@ -1,0 +1,3 @@
+execute unless data storage deactivateportals:module version run function deactivateportals:init
+
+execute unless data storage deactivateportals:config nether run data merge storage deactivateportals:config {nether: false, end: false, show_messages: true, message_location: 'chat', messages: {nether: '{"text":"You don\'t seem to be ready to venture into this dimension...","color":"dark_red"}', end: '{"text":"You don\'t seem to be ready to venture into this dimension...","color":"aqua"}'}}

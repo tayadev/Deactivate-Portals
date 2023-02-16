@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:nether_portal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "deactivateportals:event/nether_portal"
+  }
+}

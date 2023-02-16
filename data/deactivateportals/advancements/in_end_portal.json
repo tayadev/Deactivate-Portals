@@ -1,0 +1,13 @@
+{
+  "criteria": {
+   "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:end_portal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "deactivateportals:event/end_portal"
+  }
+}
