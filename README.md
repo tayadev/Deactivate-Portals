@@ -20,17 +20,17 @@ You can open a clickabe configuration screen in chat by running:
 
 ## Showcase
 
-> Showcase with a flint and steel
+> Showcase with a flint and steel\
 ![](nether_1.gif)
 
-> Showcase with a fire charge
+> Showcase with a fire charge\
 ![](nether_2.gif)
 
-> Showcase with a lit portal
+> Showcase with a lit portal\
 ![](nether_3.gif)
 
-> Showcase with eyes of ender
+> Showcase with eyes of ender\
 ![](end_1.gif)
 
-> Showcase with an activated end portal
+> Showcase with an activated end portal\
 ![](end_2.gif)
